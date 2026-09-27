@@ -20,7 +20,7 @@ The analysis covers 99,441 orders. Delivery performance is calculated using 96,4
 4. Which customer states account for the most late deliveries?
 
 ## Dashboard & Workbook
-
+![Olist delivery performance and customer satisfaction dashboard](dashboard.png)
 [Open the Google Sheets workbook](https://docs.google.com/spreadsheets/d/1OLdHgAJ5Y-ik8wq6UFw-l9ToQ3lv2_eVBGlbyMyIF-A/edit)
 
 The workbook includes:
