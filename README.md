@@ -36,18 +36,19 @@ The workbook includes:
 | Reviews_Raw | Original review data |
 | Customers_Raw | Original customer data |
 
-## Data Source
+**Source:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-**Dataset:** Brazilian E-Commerce Public Dataset by Olist  
-**Platform:** Kaggle
+**Dataset license:** CC BY-NC-SA 4.0
 
-Three source tables were used:
+Files used:
+- `olist_orders_dataset.csv`
+- `olist_order_reviews_dataset.csv`
+- `olist_customers_dataset.csv`
 
-- Orders: order status and purchase/delivery timestamps.
-- Reviews: customer review scores and associated order IDs.
-- Customers: customer IDs and customer states.
-
-The dataset belongs to its original providers. This repository presents an independent educational analysis.
+Raw CSV files are not duplicated in this repository.
+Download them from the original source above.
+The linked Google Sheets workbook contains the imported data,
+transformation formulas, summary calculations, and dashboard.
 
 ## Data Preparation
 
